@@ -18,7 +18,6 @@ Permisos de cámara y almacenamiento deben ser concedidos por el usuario para el
 Instalación y Ejecución
 Clonar el repositorio:
 
-bash
 Copiar código
 git clone https://github.com/usuario/repo-aplicacion-camara.git
 Abrir el proyecto en Android Studio:
